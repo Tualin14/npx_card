@@ -1,0 +1,27 @@
+{
+  "name": "dzaaaaaa",
+  "version": "1.0.3",
+  "description": "dzaaaaaa's card(npx_card demo)",
+  "main": "./bin/index.js",
+  "type": "module",
+  "bin": {
+    "dzaaaaaa": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tualin14/npx_card.git"
+  },
+  "author": "Soteota De Tualin <t@dzaaaaaa.com> (https://dzaaaaaa.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tualin14/npx_card/issues"
+  },
+  "homepage": "https://github.com/Tualin14/npx_card#readme",
+  "dependencies": {
+    "gradient-string": "^2.0.1"
+  }
+}
