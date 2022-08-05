@@ -1,4 +1,4 @@
-# npx_card damo
+# npx_card demo
 
 通过 npx 返回个人名片
 

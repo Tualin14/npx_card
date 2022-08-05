@@ -1,6 +1,6 @@
 {
   "name": "dzaaaaaa",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "dzaaaaaa's card(npx_card demo)",
   "main": "./bin/index.js",
   "type": "module",
