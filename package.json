@@ -1,11 +1,11 @@
 {
   "name": "dzaaaaaa",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "dzaaaaaa's card(npx_card demo)",
-  "main": "./bin/index.js",
+  "main": "index.js",
   "type": "module",
   "bin": {
-    "dzaaaaaa": "./bin/index.js"
+    "dzaaaaaa": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
