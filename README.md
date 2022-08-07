@@ -6,6 +6,8 @@
 npx dzaaaaaa
 ```
 
+![card](/card.GIF)
+
 #
 
 [艺术字生成网站](http://patorjk.com/software/taag/)
